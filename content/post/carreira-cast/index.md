@@ -13,17 +13,17 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Para muitos, o primeiro emprego é um marco inesquecível. Para mim, a Cast foi isso e muito mais: foi a porta de entrada para o universo da tecnologia e a base fundamental de toda a minha carreira.
 
-Tudo começou em Abril de 2017, quando fui selecionado para um treinamento intensivo de três meses em **.NET**. Ali, dei meus primeiros passos, aprendendo os fundamentos que me preparariam para os desafios reais do mercado. Ao final desse período, a grande notícia: fui contratado como estagiário.
+Tudo começou em 04 de Abril de 2017, quando fui selecionado para um treinamento intensivo de três meses em **.NET**. Ali, dei meus primeiros passos, aprendendo os fundamentos que me preparariam para os desafios reais do mercado. Ao final desse período, a grande notícia: fui contratado como estagiário.
 
 Neste post, quero compartilhar como essa primeira oportunidade se transformou em uma jornada incrível de evolução profissional.
 
 ### Os Primeiros Passos: O Treinamento e o Estágio
 
-Como estagiário, fui integrado ao time de [Nome do Time ou Projeto], ansioso para aplicar o que havia aprendido. Minhas primeiras responsabilidades foram cruciais para meu desenvolvimento:
+Como estagiário, fui integrado ao time onde tive como mentores excelentes mentores entre eles **Julio César** e **Fabio Y. Frushio** que me apoiaram muito nessa chegada e durante toda minha jornada na cast. Minhas primeiras responsabilidades foram cruciais para meu desenvolvimento:
 
-* [Responsabilidade chave 1, ex: Auxiliar no desenvolvimento de novas telas para o sistema X em ASP.NET]
-* [Responsabilidade chave 2, ex: Aprender a realizar testes unitários e a depurar código legado]
-* [Responsabilidade chave 3, ex: Colaborar na documentação de APIs internas]
+* Auxiliar no desenvolvimento de novas telas para o sistema COSIP em ASP.NET utilizando MVC, WCF e NHibernate
+* Realizar consultas complexas com alta performance utilizando NHibernate.
+* Realizar correções e melhorias em código legado.
 
 Foi um período de imersão total. Cada tarefa era uma aula, e cada bug corrigido, uma pequena vitória.
 
@@ -31,7 +31,7 @@ Foi um período de imersão total. Cada tarefa era uma aula, e cada bug corrigid
 
 Após um ano de dedicação e muito aprendizado, tive a alegria de ser um dos selecionados para a efetivação como **Programador Júnior**. Esse foi um momento de grande orgulho e a confirmação de que eu estava no caminho certo.
 
-Com a nova posição, vieram maiores responsabilidades. Meu primeiro grande desafio como júnior foi [descreva um desafio, ex: "assumir a responsabilidade por um módulo do sistema, o que me forçou a mergulhar fundo na arquitetura de microsserviços da empresa"]. Foi nesse período que solidifiquei minha base em [Tecnologia X] e [Tecnologia Y].
+Com a nova posição, vieram maiores responsabilidades. Meu primeiro grande desafio como júnior foi assumir a responsabilidade de cuidar de um sistema chamado **Simples Nacional**, que era projeto responsável por validar malhas fiscais e gerar relatórios. Foi nesse período que solidifiquei minha base em consultas complexas e minha lógica de programação seja para entender, debbugar ou corrigir bugs em código legado. Hoje em dia acredito que esse projeto me ajudou muito na forma que identifico os problemas em código e o como lidar diante da pressão de projetos complexos.
 
 ### Consolidação e Crescimento: A Promoção para Desenvolvedor Pleno
 

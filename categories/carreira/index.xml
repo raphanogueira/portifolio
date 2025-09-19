@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carreira on Raphael Nogueira</title><link>https://raphanogueira.github.io/portifolio/categories/carreira/</link><description>Recent content in Carreira on Raphael Nogueira</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Sep 2025 18:00:00 +0000</lastBuildDate><atom:link href="https://raphanogueira.github.io/portifolio/categories/carreira/index.xml" rel="self" type="application/rss+xml"/><item><title>Cast: Onde Minha Carreira em Tecnologia Começou</title><link>https://raphanogueira.github.io/portifolio/p/carreira-cast/</link><pubDate>Fri, 19 Sep 2025 18:00:00 +0000</pubDate><guid>https://raphanogueira.github.io/portifolio/p/carreira-cast/</guid><description>&lt;img src="https://raphanogueira.github.io/portifolio/p/carreira-cast/cover.jpg" alt="Featured image of post Cast: Onde Minha Carreira em Tecnologia Começou" /&gt;&lt;p&gt;Para muitos, o primeiro emprego é um marco inesquecível. Para mim, a Cast foi isso e muito mais: foi a porta de entrada para o universo da tecnologia e a base fundamental de toda a minha carreira.&lt;/p&gt;
+&lt;p&gt;Tudo começou em 4 de abril de 2017, quando fui selecionado para um treinamento intensivo de três meses em &lt;strong&gt;.NET&lt;/strong&gt;. Ali, dei meus primeiros passos, aprendendo os fundamentos que me preparariam para os desafios reais do mercado. Ao final desse período, a grande notícia: fui contratado como estagiário.&lt;/p&gt;
+&lt;p&gt;Neste post, quero compartilhar como essa primeira oportunidade se transformou em uma jornada incrível de evolução profissional.&lt;/p&gt;
+&lt;h3 id="os-primeiros-passos-o-treinamento-e-o-estágio"&gt;Os Primeiros Passos: O Treinamento e o Estágio
+&lt;/h3&gt;&lt;p&gt;Como estagiário, fui integrado a um time com excelentes mentores, entre eles &lt;strong&gt;Julio César&lt;/strong&gt; e &lt;strong&gt;Fabio Y. Frushio&lt;/strong&gt;, que me apoiaram muito nessa chegada e durante toda a minha jornada na Cast. Minhas primeiras responsabilidades foram cruciais para meu desenvolvimento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auxiliar no desenvolvimento de novas telas para o sistema COSIP em ASP.NET, utilizando MVC, WCF e NHibernate.&lt;/li&gt;
+&lt;li&gt;Resolver problemas complexos de performance e acesso a dados utilizando NHibernate.&lt;/li&gt;
+&lt;li&gt;Realizar correções e melhorias em código legado.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Foi um período de imersão total. Cada tarefa era uma aula e cada bug corrigido, uma pequena vitória.&lt;/p&gt;
+&lt;h3 id="a-primeira-conquista-programador-júnior-e-seus-desafios"&gt;A Primeira Conquista: Programador Júnior e seus desafios
+&lt;/h3&gt;&lt;p&gt;Após um ano de dedicação e muito aprendizado, tive a alegria de ser um dos selecionados para a efetivação como &lt;strong&gt;Programador Júnior&lt;/strong&gt;. Esse foi um momento de grande orgulho e a confirmação de que eu estava no caminho certo.&lt;/p&gt;
+&lt;p&gt;Com a nova posição, vieram maiores responsabilidades. Meu primeiro grande desafio como júnior foi assumir um sistema chamado &lt;strong&gt;Simples Nacional&lt;/strong&gt;, um projeto responsável por validar malhas fiscais e gerar relatórios. Foi nesse período que solidifiquei minha base na resolução de problemas complexos e em minha lógica de programação, seja para entender, depurar ou corrigir bugs em código legado. Hoje em dia, acredito que esse projeto me ajudou muito na forma como identifico problemas em código e a como lidar com a pressão de projetos complexos.&lt;/p&gt;
+&lt;h3 id="além-do-júnior-os-desafios-e-responsabilidades-do-desenvolvedor-pleno"&gt;Além do Júnior: Os desafios e responsabilidades do Desenvolvedor Pleno
+&lt;/h3&gt;&lt;p&gt;A evolução continuou e, após mais um ano de entregas consistentes e busca por novos conhecimentos, fui promovido a &lt;strong&gt;Desenvolvedor Pleno&lt;/strong&gt;. Essa transição marcou minha passagem de um profissional que executava tarefas para um que propunha soluções, com mais autonomia e responsabilidade sobre projetos críticos.&lt;/p&gt;
+&lt;p&gt;Foi como Pleno que tive a chance de liderar tecnicamente uma das iniciativas mais gratificantes da minha carreira na empresa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Projeto INVEPAR:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;O Desafio:&lt;/strong&gt; Não havia mais vagas para desenvolvedor .NET neste projeto, então me aventurei em Angular 7, algo totalmente diferente para mim. Além de ser um contexto totalmente novo, era um projeto de uma concessionária de rodovias. Tive esse desafio de aprender uma nova linguagem logo após a promoção.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minha Contribuição:&lt;/strong&gt; Fui responsável por desenvolver telas e realizar grande parte das integrações entre o frontend e o backend, por ter um bom conhecimento na segunda área.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O Resultado:&lt;/strong&gt; Consegui obter conhecimento referente ao frontend que, posteriormente, me ajudou muito em diversas atividades, inclusive com o que trabalho hoje. Além disso, fui o único desenvolvedor frontend em um projeto interno que viria na sequência.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Projeto Interno:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;O Desafio:&lt;/strong&gt; Assumir a liderança do frontend em um projeto interno.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minha Contribuição:&lt;/strong&gt; Construir o projeto em todas as suas camadas de front-end, desde o login até camadas complexas de telemetria, entre outras telas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O Resultado:&lt;/strong&gt; Consegui construir um conhecimento sólido em frontend baseado em Angular 7, além de melhorar minha lógica e facilidade para aprender novas linguagens. Acredito que me desenvolvi muito bem tecnicamente, melhorei bastante a minha comunicação e consegui auxiliar os outros desenvolvedores backend.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="lições-que-moldaram-minha-carreira"&gt;Lições Que Moldaram Minha Carreira
+&lt;/h3&gt;&lt;p&gt;Olhando para trás, a experiência na Cast foi uma verdadeira escola. Os principais aprendizados que levo comigo são:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Técnicos:&lt;/strong&gt; Construí uma base sólida em .NET e a expandi para Angular 7, desenvolvendo a capacidade de auxiliar membros do meu time. A prática constante me tornou proficiente em resolver problemas técnicos complexos e aprimorou minha lógica de programação.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Metodologias:&lt;/strong&gt; Vivenciei a aplicação de metodologias ágeis como Scrum e Kanban em projetos reais, entendendo a importância da comunicação e da entrega contínua de valor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Habilidades Interpersonais:&lt;/strong&gt; Aprendi a trabalhar em equipe, a receber e dar feedbacks construtivos e a comunicar ideias técnicas de forma clara para diferentes públicos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="conclusão"&gt;Conclusão
+&lt;/h3&gt;&lt;p&gt;Minha trajetória na Cast foi muito mais do que uma linha no currículo; foi a jornada que me transformou de um iniciante entusiasmado em um desenvolvedor confiante e com experiência nas duas frentes de desenvolvimento.&lt;/p&gt;
+&lt;p&gt;Sou imensamente grato à Cast por ter me dado a primeira oportunidade, mesmo sem ter conhecimentos sólidos na minha entrada, pelos desafios que me tiraram da zona de conforto e, acima de tudo, pelos líderes e colegas que me mentoraram e acreditaram no meu potencial. Essa experiência não foi apenas uma base, foi o alicerce que me preparou para todos os próximos passos da minha carreira.&lt;/p&gt;</description></item></channel></rss>
